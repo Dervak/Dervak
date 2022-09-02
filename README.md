@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dervak
 - 👀 I’m interested in videogames and developing
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
